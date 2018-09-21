@@ -120,8 +120,8 @@ As seen below this is the `planning_utils.py` the prune path function is pretty 
 
 ##### This is simply a check on whether it all worked. Send the waypoints and the autopilot should fly you from start to goal!
 
-[Video 1](./misc/video/1.mp4)
+[Video 1](https://youtu.be/TKMiBsouNLs)
 
-[Video 2](./misc/video/2.mp4)
+[Video 2](https://youtu.be/kAvvs-3BU_8)
 
 It works!
