@@ -124,4 +124,6 @@ As seen below this is the `planning_utils.py` the prune path function is pretty 
 
 [Video 2](https://youtu.be/kAvvs-3BU_8)
 
+[Video 3](https://youtu.be/Luv2qE8PgNw)
+
 It works!
